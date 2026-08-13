@@ -10,7 +10,7 @@ A multinational retailer selling Accessories, Clothing, and Bikes across the US,
 
 ## Dataset
 
-- **Source:** [Kaggle — Sales for Course]([https://www.kaggle.com/](https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis/data)) retail transactions dataset
+- **Source:** [Kaggle — Sales for Course]([https://www.kaggle.com/](https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis/data]) retail transactions dataset
 - **Size:** 34,866 transactions (after cleaning), 15 columns
 - **Coverage:** January 2015 – July 2016, across the United States, United Kingdom, France, and Germany
 - **Fields:** transaction date, customer age and gender, country/state, product category and sub-category, quantity, unit cost/price, and total cost/revenue
@@ -23,7 +23,7 @@ A multinational retailer selling Accessories, Clothing, and Bikes across the US,
 
 ## Key Findings
 
-- **Bikes generate the most revenue but the weakest margin (~2.9%)**, while Accessories brings in less revenue but the strongest margin (~18.6%) — a classic high-revenue, low-margin pattern worth flagging for pricing review.
+- **Bikes generate the most revenue but the weakest margin (~2.9%)**, while Accessories brings in less revenue but the strongest margin (~18.6%). A classic high-revenue, low-margin pattern worth flagging for pricing review.
 - **The United States drives the most revenue but has one of the weakest margins (~6.8%)**, while Germany produces less revenue but is by far the most profitable market (~22.6% margin).
 - **Customers aged 25–44 make up the majority of revenue**, making this the core demographic for marketing focus.
 - **Profitability improved substantially from 2015 into 2016** — profit grew faster than revenue over time, indicating improving margins rather than just sales growth.

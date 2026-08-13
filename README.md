@@ -1,16 +1,16 @@
 # Global Retail Sales Performance & Profitability Dashboard
 
-Cleaned and analyzed 34,000+ retail transactions to uncover revenue and profit margin drivers across regions, product categories, and customer segments — then built an interactive Power BI dashboard for stakeholder reporting.
+Cleaned and analyzed 34,000+ retail transactions to uncover revenue and profit margin drivers across regions, product categories, and customer segments, then built an interactive Power BI dashboard for stakeholder reporting.
 
 ![Dashboard Preview](dashboard-preview.png)
 
 ## Problem Statement
 
-A multinational retailer selling Accessories, Clothing, and Bikes across the US, UK, France, and Germany lacked a consolidated view of where the business was actually profitable. Leadership needed a way to see revenue and margin performance by region, product, and customer segment in order to guide marketing and inventory decisions — without needing to query raw data themselves.
+A multinational retailer selling Accessories, Clothing, and Bikes across the US, UK, France, and Germany lacked a consolidated view of where the business was actually profitable. Leadership needed a way to see revenue and margin performance by region, product, and customer segment in order to guide marketing and inventory decisions without needing to query raw data themselves.
 
 ## Dataset
 
-- **Source:** [Kaggle — Sales for Course](https://www.kaggle.com/) retail transactions dataset
+- **Source:** [Kaggle — Sales for Course]([https://www.kaggle.com/](https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis/data)) retail transactions dataset
 - **Size:** 34,866 transactions (after cleaning), 15 columns
 - **Coverage:** January 2015 – July 2016, across the United States, United Kingdom, France, and Germany
 - **Fields:** transaction date, customer age and gender, country/state, product category and sub-category, quantity, unit cost/price, and total cost/revenue

@@ -3,7 +3,6 @@
 Cleaned and analyzed 34,000+ retail transactions to uncover revenue and profit margin drivers across regions, product categories, and customer segments — then built an interactive Power BI dashboard for stakeholder reporting.
 
 ![Dashboard Preview](dashboard-preview.png)
-*(Screenshot of the Power BI dashboard — add your exported image here)*
 
 ## Problem Statement
 

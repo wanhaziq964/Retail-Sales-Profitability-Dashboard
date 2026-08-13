@@ -44,9 +44,8 @@ Profitability improved substantially from 2015 into 2016. Profit grew faster tha
 
 ## How to Run This Project
 
-1. Clone this repository
-2. Open the Jupyter notebook in VS Code or Jupyter Lab to see the data cleaning and exploratory analysis (requires Python with pandas, numpy, and matplotlib installed)
-3. Open the .pbix file in Power BI Desktop to explore the interactive dashboard
+1. Open the Jupyter notebook in VS Code or Jupyter Lab to see the data cleaning and exploratory analysis (requires Python with pandas, numpy, and matplotlib installed)
+2. Open the .pbix file in Power BI Desktop to explore the interactive dashboard
 
 ## Data Source
 

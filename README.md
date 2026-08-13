@@ -42,10 +42,11 @@ Profitability improved substantially from 2015 into 2016. Profit grew faster tha
 
 **Analytical:** profitability analysis, customer segmentation, geographic and category performance analysis, stakeholder facing data storytelling
 
-## How to Run This Project
+## Files in This Project
 
-1. Open the Jupyter notebook in VS Code or Jupyter Lab to see the data cleaning and exploratory analysis (requires Python with pandas, numpy, and matplotlib installed)
-2. Open the .pbix file in Power BI Desktop to explore the interactive dashboard
+- Jupyter notebook: data cleaning and exploratory analysis (Python, pandas, matplotlib)
+- .pbix file: the interactive Power BI dashboard
+- Cleaned CSV: the dataset after cleaning, ready for analysis
 
 ## Data Source
 
